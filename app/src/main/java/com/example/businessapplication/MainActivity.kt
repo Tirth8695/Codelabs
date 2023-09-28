@@ -50,7 +50,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-//
+//hello this is for testing the commit into the github
 @Composable
 fun BusinessCardApp(){
    Column(modifier = Modifier.background(Color.LightGray), verticalArrangement = Arrangement.Center, horizontalAlignment = Alignment.CenterHorizontally) {
